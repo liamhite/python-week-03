@@ -1,1 +1,2 @@
-# python-week-3
+# python-week-03
+speed fine calculator
